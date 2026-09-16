@@ -42,3 +42,15 @@ http://brewerlab.net - automatic
 ## IMAGES
 
 ![Sableye :)](https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mega-sableye.png)
+
+## BACKSLASH ESCAPES
+
+\*Literal asterasks\*
+
+## FENCED CODE BLOCKS
+
+'''
+echo "Hello"
+'''
+
+
