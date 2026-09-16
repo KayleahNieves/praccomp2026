@@ -49,8 +49,20 @@ http://brewerlab.net - automatic
 
 ## FENCED CODE BLOCKS
 
-'''
+- Generic
+
+```
 echo "Hello"
-'''
+```
 
+- Python
 
+```python
+print("Hello")
+```
+
+- R example
+
+```r
+x <- 4^2
+```
